@@ -65,7 +65,7 @@ password-strength-checker/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-strength-checker.git
+git clone https://github.com/Anil83738/password-strength-checker.git
 ```
 
 ---
@@ -142,7 +142,7 @@ Developed a Password Strength Checker using Python and Regex to evaluate passwor
 Add your GitHub profile link here:
 
 ```text
-https://github.com/YOUR_USERNAME
+https://github.com/Anil83738
 ```
 
 ---
@@ -152,7 +152,7 @@ https://github.com/YOUR_USERNAME
 Add your LinkedIn profile here:
 
 ```text
-https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+www.linkedin.com/in/anil-kumar-bandi-076086233
 ```
 
 ---
